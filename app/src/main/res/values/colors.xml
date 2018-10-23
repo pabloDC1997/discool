@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#200607</color>
+    <color name="colorPrimaryDark">#0b0b0b</color>
+    <color name="colorAccent">#c27215</color>
+    <color name="icons_item_colors">#d9d9d9</color>
+    <color name="background_color_main">#66979394</color>
+    <color name="color_text_login_screen">#a7a5a5</color>
+    <color name="colorViewDarkTransparent">#6e000000</color>
+</resources>

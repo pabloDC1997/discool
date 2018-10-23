@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Discool</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_filter">Filtro</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="sample_for_party_desc">Criar eventos no Facebook é super fácil e pode garantir o sucesso da sua festa, mas para isso é preciso estar atento a detalhes que fazem toda a diferença. Seja uma festa de aniversário, uma manifestação ou um evento corporativo, o Facebook pode ser muito útil na hora da divulgação, afinal a maioria dos seus convidados provavelmente faz parte da rede. Veja o que não pode faltar no seu evento</string>
+    <string name="lacation_label">Endereço:</string>
+    <string name="date_label">Data:</string>
+    <string name="ticket_label">Ingressos:</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="telefone_celular">Telefone Celular:</string>
+    <string name="confirme_senha">Confirme senha:</string>
+    <string name="senha">Senha:</string>
+    <string name="email">Email:</string>
+    <string name="nome">Nome:</string>
+    <string name="last_nome">Sobrenome:</string>
+    <string name="eventos">Eventos</string>
+    <string name="perfil">Perfil</string>
+    <string name="lixeira">Lixeira</string>
+    <string name="informacoes">Informações</string>
+    <string name="sobre">Sobre</string>
+    <string name="contato">contato</string>
+    <string name="dispositivo_sem_conexao">Dispositivo sem conexão com a internet.</string>
+    <string name="nenhum_evento_foi_encontrado">Nenhum evento foi encontrado</string>
+    <string name="action_update">Atualizar</string>
+    <string name="search">Pesquisar...</string>
+</resources>
