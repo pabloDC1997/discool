@@ -1,1 +1,1 @@
-# discool app
+# discool App
